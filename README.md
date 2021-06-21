@@ -1,40 +1,48 @@
-# 👾 Data Visualization using Streamlit 
+<div align="center">
+  <a href="https://globalaihub.com/community/">
+    <img src="https://github.com/gaih/introduction-to-oop/blob/master/Others/logo.png" height=200px />
+  </a>
+</div>
 
-<p align="center">
-	<img src="https://realworldpython.guide/media/banners/pycon-estonia-streamlit-banner.jpg" />
-</p>
+# 👾 Data Visualization using Streamlit Workshop by [Global AI Hub](https://globalaihub.com/community)
 
-### Content
+# Syllabus:
 
 1. Basics and General API construction of Streamlit Using Applied Samples & Examples
 <ul>
-	<b>Attaching Files to the Page</b>
-		<u><li>Image</li>
-		<li>Text</li>
-		<li>Headers</li>
-		<li>Videos</li>
-		<li>Sounds</li>
-			<li>Plots (i.e Matplotlib)</li></u>
+	<li>Where, why, and how Streamlit is being used?</li>
+	<li>Downloading and installing Streamlit on local devices</li>
+	<li>Creating the first Streamlit environment</li>
+	<li>Following the Streamlit Docs API to learn the basics on applied code and project</li>
+</ul>
+<ul>
+	<b>Attaching Various Following File Types to the Page:</b>
+		<u>
+			<li>Image</li>
+			<li>Text</li>
+			<li>Headers</li>
+			<li>Videos</li>
+			<li>Sounds</li>
+			<li>Plots (i.e Matplotlib)</li>
+		</u>
 </ul>
 
 2. Full Project Showcase
 ```
-Using
+Using Following Classifiers:
 1) KNN
 2) SVM
 3) Random Forest
-Classifiers
 ```
 ```
-Custom user input interaction to test on 
+Custom user input interaction to test on the following Datasets: 
 1) Iris Dataset
 2) Breast Cancer Dataset
 3) Wine Dataset
-datasets
 ```
 to find the most optimal classifier arguments, which would get the best trained model output as a result.
 
-### How to Run
+# How to Run
 1. Creating the environment
 ```
 1) Either create a virtual environment for your workspace
@@ -57,14 +65,6 @@ Get into the according folder where the main.py is located in.
 ```
 streamlit run main.py
 ```
-## In collaboration with:
-<center>
-		  
-| Global AI Hub  | Teens in AI |
-| :-----------: | :-----------: |
-| <a href="https://globalaihub.com/"><img src="https://globalaihub.com/wp-content/uploads/2021/02/logo-1.png" /></a>  | <a href="https://www.teensinai.com/"><img width=40% src="https://lh3.googleusercontent.com/4o7ehYIqqy6HZBD4taNFGlYeMqfNyX4vGYMNXYUop-Pa8RHooxL0K2zKbUJU-bFFXQdnk95TSnRcuIwqaIXFUKA=h500" /></a>	  |
 
-</center>
-	
-### License:
-MIT License
+# Certification
+The workshop is certified.
