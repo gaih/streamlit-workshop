@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://globalaihub.com/community/">
-    <img src="https://raw.githubusercontent.com/gaih/streamlit-workshop/main/assets/logo.png" height=200px />
+    <img src="assets/logo.png" height=200px />
   </a>
 </div>
 
